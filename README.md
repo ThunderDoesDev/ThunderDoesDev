@@ -10,8 +10,6 @@
 
 Thunderstruck - advanced multi-purpose bot.
 
-Shoutbox - Global chat bot.
-
 Lunar Bot List - a newly coming bot list.
 
 <h2>Github Statistics:</h2>
