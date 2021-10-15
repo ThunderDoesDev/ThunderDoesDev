@@ -1,16 +1,38 @@
-### Hi there 👋
+<h1>I am Thunder <img src="https://cdn.discordapp.com/emojis/843799591187251230.gif" height="35px"></h1>
 
-<!--
-**ThunderDoesDev/ThunderDoesDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Join My Discord](https://cdn.discord.watch/invite/dFsk7mPYJb)](https://discord.com/invite/dFsk7mPYJb)
 
-Here are some ideas to get you started:
+<h2>Public Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Discord-Bot-Monitor](https://github-readme-stats.vercel.app/api/pin/?username=ThunderDoesDev&repo=Discord-Bot-Monitor&theme=dark)](https://github.com/ThunderDoesDev/Discord-Bot-Monitor)
+
+<h2>Private Projects:</h2>
+
+Thunderstruck - advanced multi-purpose bot.
+
+Shoutbox - Global chat bot.
+
+Lunar Bot List - a newly coming bot list.
+
+<h2>Github Statistics:</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=ThunderDoesDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+
+<h2>Github Trophies:</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=ThunderDoesDev&rank=SS,S,AAA,AA,A,B,C&row=1&id=">
+
+<h2>Most Used Langauages:</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThunderDoesDev&theme=radical&layout=compact">
+
+<h2>Languages I code in:</h2>
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=c#)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+
+<h2>Contact Me:</h2>
+
+<a href="https://discord.gg/thunderstruck"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" height="50px"></a> <a href="https://twitter.com/Thunderstruck_5"><img src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" height="50px"></a>
