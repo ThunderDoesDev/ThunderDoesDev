@@ -1,6 +1,6 @@
-<h1>I am Thunder <img src="https://cdn.discordapp.com/emojis/843799591187251230.gif" height="35px"></h1>
+<h1>I am ThunderDoesDev <img src="https://cdn.discordapp.com/emojis/843799591187251230.gif" height="35px"></h1>
 
-[![Join My Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://discord.com/invite/dFsk7mPYJb)
+[![Join My Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://discord.gg/sEgv6gvHMs)
 
 <h2>Public Projects:</h2>
 
