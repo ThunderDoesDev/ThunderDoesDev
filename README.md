@@ -9,9 +9,6 @@
 <h2>Private Projects:</h2>
 
 Thunderstruck - advanced multi-purpose bot.
-
-Lunar Bot List - a newly coming bot list.
-
 <h2>Github Statistics:</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=ThunderDoesDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
 
