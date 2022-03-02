@@ -6,9 +6,6 @@
 
 [![Discord-Bot-Monitor](https://github-readme-stats.vercel.app/api/pin/?username=ThunderDoesDev&repo=Discord-Bot-Monitor&theme=dark)](https://github.com/ThunderDoesDev/Discord-Bot-Monitor)
 
-<h2>Private Projects:</h2>
-
-Thunderstruck - advanced multi-purpose bot.
 <h2>Github Statistics:</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=ThunderDoesDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
 
