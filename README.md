@@ -2,6 +2,8 @@
 
 [![Join My Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://discord.gg/sEgv6gvHMs)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/852521383006961687)](https://discord.com/users/852521383006961687)
+
 <h2>Public Projects:</h2>
 
 [![Discord-Bot-Monitor](https://github-readme-stats.vercel.app/api/pin/?username=ThunderDoesDev&repo=Discord-Bot-Monitor&theme=dark)](https://github.com/ThunderDoesDev/Discord-Bot-Monitor)
