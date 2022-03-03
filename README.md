@@ -27,4 +27,4 @@
 
 <h2>Contact Me:</h2>
 
-<a href="https://discord.gg/thunderstruck"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" height="50px"></a> <a href="https://twitter.com/Thunderstruck_5"><img src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" height="50px"></a>
+<a href="https://discord.gg/thunderstruck"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" height="50px"></a> <a href="https://twitter.com/thunderdoesdev"><img src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" height="50px"></a>
