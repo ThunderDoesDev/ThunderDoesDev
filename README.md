@@ -1,6 +1,6 @@
 <h1>I am ThunderDoesDev <img src="https://cdn.discordapp.com/emojis/843799591187251230.gif" height="35px"></h1>
 
-[![Join My Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://discord.gg/sEgv6gvHMs)
+[![Join My Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://discord.gg/wm2DKdemrP)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/852521383006961687)](https://discord.com/users/852521383006961687)
 
@@ -29,4 +29,4 @@
 
 <h2>Contact Me:</h2>
 
-<a href="https://discord.gg/thunderstruck"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" height="50px"></a> <a href="https://twitter.com/thunderdoesdev"><img src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" height="50px"></a>
+<a href="https://discord.gg/wm2DKdemrP"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" height="50px"></a> <a href="https://twitter.com/thunderdoesdev"><img src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" height="50px"></a>
