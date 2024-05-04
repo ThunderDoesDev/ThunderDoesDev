@@ -2,12 +2,6 @@
 
 [![Join My Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://discord.gg/pN9NDAHg77)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/852521383006961687)](https://discord.com/users/852521383006961687)
-
-<h2>Public Projects:</h2>
-
-[![Discord-Bot-Monitor](https://github-readme-stats.vercel.app/api/pin/?username=ThunderDoesDev&repo=Discord-Bot-Monitor&theme=dark)](https://github.com/ThunderDoesDev/Discord-Bot-Monitor)
-
 <h2>Github Statistics:</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=ThunderDoesDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
 
