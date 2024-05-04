@@ -3,7 +3,7 @@
 [![Join My Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://discord.gg/pN9NDAHg77)
 
 <h2>Github Statistics:</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=ThunderDoesDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api?username=ThunderDoesDev&show_icons=true">
 
 <h2>Github Trophies:</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=ThunderDoesDev&rank=SS,S,AAA,AA,A,B,C&row=1&id=">
