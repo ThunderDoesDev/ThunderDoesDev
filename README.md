@@ -1,4 +1,4 @@
-<h1>I am Thunder <img src="https://cdn.discordapp.com/emojis/1055063219800117268.gif" height="35px"></h1>
+<h1>My Github <img src="https://cdn.discordapp.com/emojis/1055063219800117268.gif" height="35px"></h1>
 
 [![Join My Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://discord.gg/thunderdoesdev)
 
