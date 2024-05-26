@@ -23,6 +23,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
+
 <h2>Contact Me:</h2>
 <a href="https://discord.gg/thunderdoesdev"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" height="50px"></a> 
 <a href="https://twitter.com/thunderdoesdev"><img src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Log%D0%BE-500x281.png" height="50px"></a>
