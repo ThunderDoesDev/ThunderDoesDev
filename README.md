@@ -1,5 +1,7 @@
 <h1>I am Thunder <img src="https://cdn.discordapp.com/emojis/1055063219800117268.gif" height="35px"></h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFFF&random=false&width=435&lines=Back-end+Developer+%26+Aspiring+IT+Technician)](https://git.io/typing-svg)
+
 [![Join My Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://discord.gg/thunderdoesdev)
 
 <h2>About Me:</h2>
