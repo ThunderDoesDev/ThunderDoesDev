@@ -1,6 +1,6 @@
 <h1>I am Thunder <img src="https://cdn.discordapp.com/emojis/1055063219800117268.gif" height="35px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFFF&random=false&width=435&lines=Back-end+Developer+%26+Aspiring+IT+Technician)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFFF&random=false&width=435&lines=Back-end+Developer+%26+Certified+IT+Technician)](https://git.io/typing-svg)
 
 <h2>About Me:</h2>
 <p>Hello, I'm ThunderDoesDev, but most people call me Thunder. I'm a 29-year-old self-taught backend developer from Australia with over a decade of experience. My expertise currently lies in Discord bot development, though I hope to expand my skill set in the future. To enhance my qualifications and further my skills, I'm currently pursuing a Certificate III in Information Technology with the goal of becoming a qualified IT technician.</p>
