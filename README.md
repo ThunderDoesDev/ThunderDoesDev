@@ -15,9 +15,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThunderDoesDev&theme=radical&layout=compact">
 
 <h2>Languages I Code In:</h2>
-![Python](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=Python&logoColor=white) 
-![C#](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![Node.js](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=node.js&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <h2>Contact Me:</h2>
 <a href="https://discord.gg/thunderdoesdev"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" height="50px"></a> 
