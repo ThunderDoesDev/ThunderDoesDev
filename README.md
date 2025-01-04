@@ -15,14 +15,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThunderDoesDev&theme=radical&layout=compact">
 
 <h2>Languages I Code In:</h2>
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Python](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=Python&logoColor=white) 
+![C#](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![Node.js](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=node.js&logoColor=white) 
 
 <h2>Contact Me:</h2>
 <a href="https://discord.gg/thunderdoesdev"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" height="50px"></a> 
