@@ -6,7 +6,7 @@
 <p>I'm a 30-year-old self-taught backend developer from Australia with over a decade of experience. My expertise lies in Discord bot development, where I've honed my skills over the years. Recently, I expanded my qualifications by earning a Certificate III in Information Technology, making me a certified IT Technician.</p>
 <h2>Github Statistics:</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=ThunderDoesDev&show_icons=true&theme=radical">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThunderDoesDev&theme=dark&hide_border=false">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThunderDoesDev&theme=radical&hide_border=false">
 
 <h2>Github Trophies:</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=ThunderDoesDev&rank=SS,S,AAA,AA,A,B,C&row=1&id=">
