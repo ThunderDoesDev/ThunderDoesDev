@@ -21,7 +21,7 @@
 ![C#](https://img.shields.io/badge/c%23-%2300599C.svg?style=for-the-badge&logo=c#&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-%2300599C.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%2300599C.svg?style=for-the-badge&logo=PHP&logoColor=white)
-![PHP](https://img.shields.io/badge/JSON-%2300599C.svg?style=for-the-badge&logo=JSON&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%2300599C.svg?style=for-the-badge&logo=Next.js&logoColor=white)
 
 <h2>Databases I Use:</h2>
 
