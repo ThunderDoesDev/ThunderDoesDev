@@ -26,6 +26,7 @@
 <h2>Databases I Use:</h2>
 
 ![Mongo](https://img.shields.io/badge/mongodb-%2300599C.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%2300599C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <h2>Contact Me:</h2>
 
