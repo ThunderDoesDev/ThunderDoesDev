@@ -25,7 +25,7 @@
 
 <h2>Databases I Use:</h2>
 
-![PostgreSQL](https://img.shields.io/badge/postgresql-%2300599C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300599C.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h2>Contact Me:</h2>
 
